@@ -1,0 +1,14 @@
+.footer{
+        background-color: rgb(216, 12, 12);
+        width: 100vw; 
+        height: 20px;
+        display: flex; 
+        align-items: center; 
+        justify-content: center;
+        text-align: center;
+        bottom: 0;
+        position: fixed;
+}
+.copyRight{
+    color:white;
+}
